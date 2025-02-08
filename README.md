@@ -9,7 +9,7 @@ A simple **Circular Progress Bar** built using **Android Custom View & Canvas**.
 ✅ Smooth rendering with `invalidate()`  
 
 ## Screenshots  
-*(Add a screenshot of the circular progress bar here!)*  
+![Circular Progress Bar](media/home.png)
 
 ## Setup & Usage  
 
